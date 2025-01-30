@@ -1,0 +1,9 @@
+financedatabase==2.2.2
+matplotlib==3.7.1
+numpy==2.2.2
+pandas==2.2.3
+scipy==1.15.1
+seaborn==0.13.2
+streamlit==1.41.1
+yahooquery==2.3.7
+yfinance==0.2.51
